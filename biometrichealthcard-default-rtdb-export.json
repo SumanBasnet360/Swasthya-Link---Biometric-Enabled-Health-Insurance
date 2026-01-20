@@ -1,0 +1,65 @@
+{
+  "biometrichealthcard": {
+    "medical_records": {
+      "2DA72C62": {
+        "insurance": {
+          "transaction": 2000
+        },
+        "lastVisit": "{\"date and time\":\"01-14-2026 11:00:42 am\",\"diagnosis\":\"headache \",\"prescription\":\"Nims\",\"doctor\":\"Salina Thapa\",\"notes\":\"Caused by Stress\"}",
+        "patientDetails": "{\"Name\":\"Name: Name: Bom Bahadur Bohora\",\"Gender\":\"Gender: Gender: Male\",\"Age\":\"Age: Age: 25\",\"Address\":\"Address: Address: Jhapa\",\"Blood\":\"Blood: Blood: O+\"}",
+        "visits": {
+          "01-11-2026 01:41:30 pm": "{\"diagnosis\":\"fever\",\"prescription\":\"cetamol\",\"doctor\":\"ram\",\"notes\":\"not serious\"}",
+          "01-11-2026 01:47:19 pm": "{\"diagnosis\":\"nausea\",\"prescription\":\"jeevanjal\",\"doctor\":\"shyam\",\"notes\":\" food poisoning\"}",
+          "01-11-2026 02:00:24 pm": "{\"diagnosis\":\"Diagnosis: ss\",\"prescription\":\"Prescription: bb\",\"doctor\":\"Doctor: uu\",\"notes\":\"Notes: ee\"}",
+          "01-11-2026 02:01:14 pm": "{\"diagnosis\":\"Diagnosis: ppl \",\"prescription\":\"Prescription: bb\",\"doctor\":\"Doctor: uu\",\"notes\":\"Notes: ee\"}",
+          "01-11-2026 02:02:02 pm": "{\"diagnosis\":\"Diagnosis: ppl \",\"prescription\":\"Prescription: bb\",\"doctor\":\"Doctor: uu\",\"notes\":\"Notes: ee\"}",
+          "01-11-2026 02:04:20 pm": "{\"diagnosis\":\"Diagnosis: gg\",\"prescription\":\"Prescription: tt\",\"doctor\":\"Doctor: hh\",\"notes\":\"Notes: rr\"}",
+          "01-11-2026 02:15:54 pm": "{\"diagnosis\":\"fever\",\"prescription\":\"ibuprofen\",\"doctor\":\"sara\",\"notes\":\"viral fever\"}",
+          "01-11-2026 02:22:46 pm": "{\"diagnosis\":\"Diagnosis: fever\",\"prescription\":\"Prescription: ibuprofen\",\"doctor\":\"Doctor: sara\",\"notes\":\"Notes: viral fever\"}",
+          "01-11-2026 07:14:12 pm": "{\"diagnosis\":\"Diagnosis: Diagnosis: fever\",\"prescription\":\"Prescription: Prescription: ibuprofen\",\"doctor\":\"Doctor: Doctor: sara\",\"notes\":\"Notes: Notes: viral fever\"}",
+          "01-11-2026 07:18:49 pm": "{\"diagnosis\":\"Diagnosis: Diagnosis: fever\",\"prescription\":\"Prescription: Prescription: ibuprofen\",\"doctor\":\"Doctor: Doctor: sara\",\"notes\":\"Notes: Notes: viral fever\"}",
+          "01-11-2026 07:34:57 pm": "{\"diagnosis\":\"fever\",\"prescription\":\"ibuprofen\",\"doctor\":\"sara\",\"notes\":\"viral fever\"}",
+          "01-11-2026 08:34:34 pm": "{\"diagnosis\":\"stomach ache\",\"prescription\":\"protozol\",\"doctor\":\"ramesh\",\"notes\":\"food poisoning\"}",
+          "01-11-2026 09:49:40 pm": "{\"diagnosis\":\"headache \",\"prescription\":\"nims\",\"doctor\":\"bijay\",\"notes\":\"stress\"}",
+          "01-11-2026 11:27:33 am": "{\"diagnosis\":\"head\",\"prescription\":\"cetamol\",\"doctor\":\"ram\",\"notes\":\"serious\"}",
+          "01-11-2026 11:27:56 am": "{\"diagnosis\":\"chest\",\"prescription\":\"cetamol\",\"doctor\":\"ram\",\"notes\":\"serious\"}",
+          "01-11-2026 11:50:18 am": "{\"diagnosis\":\"Diagnosis: fever\",\"prescription\":\"Prescription: paracetamol \",\"doctor\":\"Doctor: ram\",\"notes\":\"Notes: not serious\"}",
+          "01-12-2026 01:00:22 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: headache \",\"prescription\":\"Prescription: Prescription: nims\",\"doctor\":\"Doctor: srijan\",\"notes\":\"Notes: Notes: stress\"}",
+          "01-12-2026 01:01:55 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: headache \",\"prescription\":\"Prescription: Prescription: Prescription: nims\",\"doctor\":\"Doctor: Doctor: srijan\",\"notes\":\"Notes: Notes: Notes: stress\"}",
+          "01-12-2026 01:56:21 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: Diagnosis: headache \",\"prescription\":\"Prescription: Prescription: Prescription: Prescription: nims\",\"doctor\":\"Doctor: Doctor: Doctor: srijan\",\"notes\":\"Notes: Notes: Notes: Notes: stress\"}",
+          "01-12-2026 02:13:31 am": "{\"diagnosis\":\"fever \",\"prescription\":\"paracetamol \",\"doctor\":\"Biraj\",\"notes\":\"Viral fever \"}",
+          "01-12-2026 02:19:15 am": "{\"diagnosis\":\"headache\",\"prescription\":\"Nims\",\"doctor\":\"Safal Acharya\",\"notes\":\"Caused by Stress\"}",
+          "01-12-2026 09:44:00 am": "{\"diagnosis\":\"Headache\",\"prescription\":\"Nims\",\"doctor\":\"Safal Acharya\",\"notes\":\"Caused by Stress\"}",
+          "01-12-2026 09:54:36 am": "{\"diagnosis\":\"Headache\",\"prescription\":\"Nims\",\"doctor\":\"Safal Acharya\",\"notes\":\"Caused by Stress\"}",
+          "01-12-2026 09:56:18 am": "{\"diagnosis\":\"Diagnosis: Headache\",\"prescription\":\"Prescription: Nims\",\"doctor\":\"Doctor: Safal Acharya\",\"notes\":\"Notes: Caused by Stress\"}",
+          "01-12-2026 10:00:14 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Headache\",\"prescription\":\"Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Caused by Stress\"}",
+          "01-12-2026 10:04:12 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: Headache\",\"prescription\":\"Prescription: Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Notes: Caused by Stress\"}",
+          "01-12-2026 10:06:16 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: Diagnosis: Headache\",\"prescription\":\"Prescription: Prescription: Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Notes: Notes: Caused by Stress\"}",
+          "01-12-2026 10:09:36 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: Diagnosis: Diagnosis: Headache\",\"prescription\":\"Prescription: Prescription: Prescription: Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Doctor: Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Notes: Notes: Notes: Caused by Stress\"}",
+          "01-12-2026 10:16:09 am": "{\"diagnosis\":\"Headache\",\"prescription\":\"Nims\",\"doctor\":\"Safal Acharya\",\"notes\":\"Caused by Stress\"}",
+          "01-12-2026 10:19:22 am": "{\"diagnosis\":\"Diagnosis: Headache\",\"prescription\":\"Prescription: Nims\",\"doctor\":\"Doctor: Safal Acharya\",\"notes\":\"Notes: Caused by Stress\"}",
+          "01-12-2026 11:19:04 am": "{\"diagnosis\":\"stomachache \",\"prescription\":\"Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Caused by Stress\"}",
+          "01-12-2026 12:53:53 am": "{\"diagnosis\":\"Diagnosis: headache \",\"prescription\":\"Prescription: nims\",\"doctor\":\"srijan\",\"notes\":\"Notes: stress\"}",
+          "01-14-2026 11:00:42 am": "{\"diagnosis\":\"headache \",\"prescription\":\"Nims\",\"doctor\":\"Salina Thapa\",\"notes\":\"Caused by Stress\"}"
+        }
+      },
+      "NONE": {
+        "lastVisit": "{\"date and time\":\"01-12-2026 10:09:57 am\",\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: Diagnosis: Diagnosis: Headache\",\"prescription\":\"Prescription: Prescription: Prescription: Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Doctor: Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Notes: Notes: Notes: Caused by Stress\"}",
+        "patientDetails": "{\"Name\":\"Name: \",\"Gender\":\"Gender: \",\"Age\":\"Age: \",\"Address\":\"Address: \",\"Blood\":\"Blood: \"}",
+        "visits": {
+          "01-12-2026 10:09:57 am": "{\"diagnosis\":\"Diagnosis: Diagnosis: Diagnosis: Diagnosis: Diagnosis: Headache\",\"prescription\":\"Prescription: Prescription: Prescription: Prescription: Prescription: Nims\",\"doctor\":\"Doctor: Doctor: Doctor: Doctor: Doctor: Safal Acharya\",\"notes\":\"Notes: Notes: Notes: Notes: Notes: Caused by Stress\"}"
+        }
+      }
+    },
+    "patients": {
+      "2DA72C62": {
+        "age": 22,
+        "bloodGroup": "O+",
+        "diagnosis": "fever",
+        "gender": "male",
+        "insuranceID": "HI-NEP-10293",
+        "name": "suman basnet"
+      }
+    }
+  }
+}
